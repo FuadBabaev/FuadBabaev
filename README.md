@@ -30,5 +30,3 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Dune Analytics](https://img.shields.io/badge/Dune-FF5A1F?style=for-the-badge)
-![Mathcad](https://img.shields.io/badge/Mathcad-005EB8?style=for-the-badge)
-
